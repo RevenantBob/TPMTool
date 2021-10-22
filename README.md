@@ -1,6 +1,6 @@
 # TPMTool
 
-This is a simply tool for testing ECDSA functionality on a TPM using Microsoft's NCrypt API.
+This is a simple tool for testing ECDSA functionality on a TPM using Microsoft's NCrypt API.
 
 Usage:
 
